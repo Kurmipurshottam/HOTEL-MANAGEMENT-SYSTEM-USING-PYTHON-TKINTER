@@ -131,4 +131,4 @@ def get_info_of_any_guest():
 
     root.mainloop()
 
-get_info_of_any_guest()
+# get_info_of_any_guest()
